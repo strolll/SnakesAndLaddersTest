@@ -20,4 +20,4 @@ The UI and game view design is implemented, design to be 16:9 screen-ratio.
 
 To save time, you may upgrade the project to a Unity version you may have installed.
 
-Fork privately and create a Pull-Request back with your work.
+Clone or download and please send it privately to Daniel at Strolll. co
