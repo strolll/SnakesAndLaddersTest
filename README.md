@@ -12,12 +12,14 @@ The main classes are mostly implemented but not binded together.
 Evaluation is based:
 
  1. Working gameplay
- 2. Applying SOLID principles 
- 3. Completing/implementing automated tests
- 4. Use of Git and GitHub appropriately
+ 2. Adding events/Action by code
+ 3. Applying SOLID principles where possible
+ 4. Implementing automated tests as required
 
 The UI and game view design is implemented, design to be 16:9 screen-ratio.
 
 To save time, you may upgrade the project to a Unity version you may have installed.
 
-Clone or download and please send it privately to Daniel at Strolll. co
+Clone or download and then please send your modified version back privately to: Daniel at strolll.co
+
+Please keep your solution private.
